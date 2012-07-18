@@ -1,0 +1,256 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GesturesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1546, 543}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GesturesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 2181}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Gestures */ = {
+		activeExec = 0;
+		executables = (
+			63872EBC146BB0BD003AD31E /* Gestures */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1546, 520}}";
+			sepNavSelRange = "{472, 0}";
+			sepNavVisRange = "{0, 480}";
+			sepNavWindowFrame = "{{1477, 79}, {675, 818}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 2561}}";
+			sepNavSelRange = "{4512, 0}";
+			sepNavVisRange = "{0, 1235}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 63872EBC146BB0BD003AD31E /* Gestures */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Gestures */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Gestures */,
+		);
+		codeSenseManager = 63872EC2146BB0DB003AD31E /* Code sense */;
+		executables = (
+			63872EBC146BB0BD003AD31E /* Gestures */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					722,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342680679;
+			PBXWorkspaceStateSaveDate = 342680679;
+		};
+		perUserProjectItems = {
+			63872F37146BB904003AD31E /* PBXBookmark */ = 63872F37146BB904003AD31E /* PBXBookmark */;
+			63F4A021146CB048003EC810 /* PBXTextBookmark */ = 63F4A021146CB048003EC810 /* PBXTextBookmark */;
+			63F4A1CF146CDDCB003EC810 /* PBXTextBookmark */ = 63F4A1CF146CDDCB003EC810 /* PBXTextBookmark */;
+			63F4A1D0146CDDCB003EC810 /* PBXTextBookmark */ = 63F4A1D0146CDDCB003EC810 /* PBXTextBookmark */;
+			63F4A1D2146CDDCB003EC810 /* PBXTextBookmark */ = 63F4A1D2146CDDCB003EC810 /* PBXTextBookmark */;
+			63F4A1EE146CE05E003EC810 /* PBXTextBookmark */ = 63F4A1EE146CE05E003EC810 /* PBXTextBookmark */;
+			63F4A211146CE41C003EC810 /* PBXTextBookmark */ = 63F4A211146CE41C003EC810 /* PBXTextBookmark */;
+			63F4A212146CE41C003EC810 /* PBXTextBookmark */ = 63F4A212146CE41C003EC810 /* PBXTextBookmark */;
+			63F4A214146CE41C003EC810 /* PBXTextBookmark */ = 63F4A214146CE41C003EC810 /* PBXTextBookmark */;
+			63F4A228146CE47C003EC810 /* PBXTextBookmark */ = 63F4A228146CE47C003EC810 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 63872EC1146BB0DB003AD31E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	63872EBC146BB0BD003AD31E /* Gestures */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Gestures;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	63872EC1146BB0DB003AD31E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	63872EC2146BB0DB003AD31E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	63872F37146BB904003AD31E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 63872EE4146BB3BA003AD31E /* Sunflower.gif */;
+	};
+	63F49FDE146CA80E003EC810 /* GardenView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 535}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 300}";
+		};
+	};
+	63F49FDF146CA80E003EC810 /* GardenView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1546, 543}}";
+			sepNavSelRange = "{183, 26}";
+			sepNavVisRange = "{0, 215}";
+		};
+	};
+	63F4A021146CB048003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GesturesAppDelegate.m */;
+		name = "GesturesAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 2181;
+		vrLoc = 0;
+	};
+	63F4A19A146CD546003EC810 /* Flower.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 535}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 304}";
+			sepNavWindowFrame = "{{15, 235}, {675, 818}}";
+		};
+	};
+	63F4A19B146CD546003EC810 /* Flower.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1546, 543}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 209}";
+		};
+	};
+	63F4A1CF146CDDCB003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GesturesAppDelegate.h */;
+		name = "GesturesAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 0;
+	};
+	63F4A1D0146CDDCB003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63F4A19B146CD546003EC810 /* Flower.m */;
+		name = "Flower.m: 15";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 209;
+		vrLoc = 0;
+	};
+	63F4A1D2146CDDCB003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63F49FDF146CA80E003EC810 /* GardenView.m */;
+		name = "GardenView.m: 14";
+		rLen = 26;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 0;
+	};
+	63F4A1EE146CE05E003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */;
+		name = "GesturesViewController.h: 24";
+		rLen = 0;
+		rLoc = 472;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	63F4A211146CE41C003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63F4A19A146CD546003EC810 /* Flower.h */;
+		name = "Flower.h: 17";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	63F4A212146CE41C003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63F49FDE146CA80E003EC810 /* GardenView.h */;
+		name = "GardenView.h: 17";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	63F4A214146CE41C003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 170";
+		rLen = 0;
+		rLoc = 4512;
+		rType = 0;
+		vrLen = 1210;
+		vrLoc = 0;
+	};
+	63F4A228146CE47C003EC810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 170";
+		rLen = 0;
+		rLoc = 4512;
+		rType = 0;
+		vrLen = 1210;
+		vrLoc = 0;
+	};
+}

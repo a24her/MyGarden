@@ -1,0 +1,975 @@
+TGestures
+v7
+r0
+t342680687.190673
+cCheck dependencies
+cProcessInfoPlistFile /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Info.plist Gestures-Info.plist
+cCompileXIB /Users/lab14/Desktop/Flowers/MainWindow.xib
+cCompileXIB /Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib
+cCpResource "build/Debug-iphonesimulator/Gestures.app/African Daisy.gif" "African Daisy.gif"
+cCpResource build/Debug-iphonesimulator/Gestures.app/Sunflower.gif Sunflower.gif
+cCpResource build/Debug-iphonesimulator/Gestures.app/Dandelion.gif Dandelion.gif
+cCpResource build/Debug-iphonesimulator/Gestures.app/Ixia.gif Ixia.gif
+cProcessPCH /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o /Users/lab14/Desktop/Flowers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o /Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o /Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GardenView.o /Users/lab14/Desktop/Flowers/Classes/GardenView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Flower.o /Users/lab14/Desktop/Flowers/Classes/Flower.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures normal i386
+cGenerateDSYMFile /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app.dSYM /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures
+cTouch /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Bridge.jpeg
+c000000004B7E0E420000000000057586
+t1266552386
+s357766
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Buildings.jpeg
+c000000004B7E0B940000000000063E0A
+t1266551700
+s409098
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Classes/../GesturesViewController.xib
+c000000004E9E4D63000000000000451C
+t1318997347
+s17692
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.h
+c000000004E9E4B8C00000000000001E2
+t1318996876
+s482
+i<UIKit/UIKit.h>
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m
+c000000004E9E4B8C0000000000000AAC
+t1318996876
+s2732
+i"GesturesAppDelegate.h"
+i"GesturesViewController.h"
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.h
+c000000004E9E64340000000000000160
+t1319003188
+s352
+i<UIKit/UIKit.h>
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m
+c000000004E9E64E30000000000001D81
+t1319003363
+s7553
+i"GesturesViewController.h"
+
+N/Users/lab13/Desktop/MyProjects/Gestures/GesturesViewController.xib
+c000000004E9E4B8C0000000000001A49
+t1318996876
+s6729
+
+N/Users/lab13/Desktop/MyProjects/Gestures/Gestures_Prefix.pch
+c000000004E9E4B8D00000000000000B9
+t1318996877
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lab13/Desktop/MyProjects/Gestures/MainWindow.xib
+c000000004E9E4B8C0000000000004E35
+t1318996876
+s20021
+
+N/Users/lab13/Desktop/MyProjects/Gestures/architecture.jpg
+c000000004BF39F5C000000000001F90C
+t1274257244
+s129292
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app
+t1319003265
+s340
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+t1319003265
+s102
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Bridge.jpeg
+t1319000534
+s357766
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Buildings.jpeg
+t1319000534
+s409098
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+t1319003265
+s23964
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib
+t1318997674
+s1844
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist
+t1318997674
+s595
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib
+t1318997674
+s1683
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/PkgInfo
+t1318997674
+s8
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/architecture.jpg
+t1318997674
+s129292
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList
+c000000004E9E4EAA000000000000019B
+t1318997674
+s411
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+t1319003205
+s51428
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+t1319003265
+s62524
+
+N/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+t1318997675
+s6316
+
+N/Users/lab13/Desktop/MyProjects/Gestures/main.m
+c000000004E9E4B8D0000000000000167
+t1318996877
+s359
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Flowers/African Daisy.gif
+c000000004EBB6B930000000000000A40
+t1320905619
+s2624
+
+N/Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib
+c000000004EBCA7C70000000000008394
+t1320986567
+s33684
+
+N/Users/lab14/Desktop/Flowers/Classes/Flower.h
+c000000004EBC9FBE0000000000000148
+t1320984510
+s328
+i<Foundation/Foundation.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/Flower.m
+c000000004EBC9FC300000000000000D1
+t1320984515
+s209
+i"Flower.h"
+
+N/Users/lab14/Desktop/Flowers/Classes/Garden.h
+c000000004EBC71940000000000000140
+t1320972692
+s320
+i<Foundation/Foundation.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/Garden.m
+c000000004EBC736B00000000000000CF
+t1320973163
+s207
+i"Garden.h"
+
+N/Users/lab14/Desktop/Flowers/Classes/GardenView.h
+c000000004EBCAC540000000000000144
+t1320987732
+s324
+i<Foundation/Foundation.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/GardenView.m
+c000000004EBC765800000000000000D7
+t1320973912
+s215
+i"GardenView.h"
+
+N/Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.h
+c000000004E9E4B8C00000000000001E2
+t1318996876
+s482
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m
+c000000004E9E4B8C0000000000000AAC
+t1318996876
+s2732
+i"GesturesAppDelegate.h"
+i"GesturesViewController.h"
+
+N/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.h
+c000000004EBCA7D300000000000001E0
+t1320986579
+s480
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m
+c000000004EBCAB9B000000000000141A
+t1320987547
+s5146
+i"GesturesViewController.h"
+i"Flower.h"
+i"GardenView.h"
+
+N/Users/lab14/Desktop/Flowers/Classes/Room.h
+c000000004EBC7150000000000000013A
+t1320972624
+s314
+i<Foundation/Foundation.h>
+
+N/Users/lab14/Desktop/Flowers/Classes/Room.m
+c000000004EBC710600000000000000C9
+t1320972550
+s201
+i"Room.h"
+
+N/Users/lab14/Desktop/Flowers/Dandelion.gif
+c000000004EBB89010000000000000AA8
+t1320913153
+s2728
+
+N/Users/lab14/Desktop/Flowers/Gestures_Prefix.pch
+c000000004E9E4B8D00000000000000B9
+t1318996877
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Flowers/Ixia.gif
+c000000004EBB89010000000000000A35
+t1320913153
+s2613
+
+N/Users/lab14/Desktop/Flowers/MainWindow.xib
+c000000004E9E4B8C0000000000004E35
+t1318996876
+s20021
+
+N/Users/lab14/Desktop/Flowers/Sunflower.gif
+c000000004EBB6B930000000000000AAA
+t1320905619
+s2730
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app
+t1320987887
+s510
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app.dSYM
+t1320987887
+s102
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/African Daisy.gif
+t1320910203
+s2624
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Dandelion.gif
+t1320972896
+s2728
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures
+t1320987887
+s25380
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib
+t1320986572
+s5987
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Info.plist
+t1318997674
+s595
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Ixia.gif
+t1320972896
+s2613
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib
+t1318997674
+s1683
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/PkgInfo
+t1318997674
+s8
+
+N/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Sunflower.gif
+t1320910203
+s2730
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Flower.o
+t1320984582
+s37136
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Garden.o
+t1320973163
+s37128
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GardenView.o
+t1320987887
+s37212
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList
+c000000004EBC9ED30000000000000263
+t1320984275
+s611
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+t1320986579
+s51452
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+t1320987887
+s60448
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Room.o
+t2
+s0
+
+N/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+t1320972897
+s6292
+
+N/Users/lab14/Desktop/Flowers/main.m
+c000000004E9E4B8D0000000000000167
+t1318996877
+s359
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Gestures/African Daisy.gif
+c000000004EBB6B930000000000000A40
+t1320905619
+s2624
+
+N/Users/lab14/Desktop/Gestures/Bridge.jpeg
+c000000004B7E0E420000000000057586
+t1266552386
+s357766
+
+N/Users/lab14/Desktop/Gestures/Buildings.jpeg
+c000000004B7E0B940000000000063E0A
+t1266551700
+s409098
+
+N/Users/lab14/Desktop/Gestures/Classes/../GesturesViewController.xib
+c000000004EBB88B50000000000007054
+t1320913077
+s28756
+
+N/Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.h
+c000000004E9E4B8C00000000000001E2
+t1318996876
+s482
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m
+c000000004E9E4B8C0000000000000AAC
+t1318996876
+s2732
+i"GesturesAppDelegate.h"
+i"GesturesViewController.h"
+
+N/Users/lab14/Desktop/Gestures/Classes/GesturesViewController.h
+c000000004EBB83310000000000000188
+t1320911665
+s392
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m
+c000000004EBB85DD0000000000000983
+t1320912349
+s2435
+i"GesturesViewController.h"
+
+N/Users/lab14/Desktop/Gestures/Dandelion.gif
+c000000004EBB89010000000000000AA8
+t1320913153
+s2728
+
+N/Users/lab14/Desktop/Gestures/Gestures_Prefix.pch
+c000000004E9E4B8D00000000000000B9
+t1318996877
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lab14/Desktop/Gestures/Ixia.gif
+c000000004EBB89010000000000000A35
+t1320913153
+s2613
+
+N/Users/lab14/Desktop/Gestures/MainWindow.xib
+c000000004E9E4B8C0000000000004E35
+t1318996876
+s20021
+
+N/Users/lab14/Desktop/Gestures/Sunflower.gif
+c000000004EBB6B930000000000000AAA
+t1320905619
+s2730
+
+N/Users/lab14/Desktop/Gestures/architecture.jpg
+c000000004BF39F5C000000000001F90C
+t1274257244
+s129292
+
+N/Users/lab14/Desktop/Gestures/background.png
+c000000004EBB6C3000000000000037C0
+t1320905776
+s14272
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app
+t1320912360
+s442
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+t1320912360
+s102
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/African Daisy.gif
+t1320910203
+s2624
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Bridge.jpeg
+t1319000534
+s357766
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Buildings.jpeg
+t1319000534
+s409098
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Dandelion.gif
+t2
+s0
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+t1320912360
+s18816
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib
+t1320911824
+s3744
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist
+t1318997674
+s595
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Ixia.gif
+t2
+s0
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib
+t1318997674
+s1683
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/PkgInfo
+t1318997674
+s8
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Sunflower.gif
+t1320910203
+s2730
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/architecture.jpg
+t1318997674
+s129292
+
+N/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/background.png
+t1320910203
+s14272
+
+N/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList
+c000000004EBB7BFA000000000000017A
+t1320909818
+s378
+
+N/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+t1320911792
+s51404
+
+N/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+t1320912360
+s46928
+
+N/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+t1320909818
+s6292
+
+N/Users/lab14/Desktop/Gestures/main.m
+c000000004E9E4B8D0000000000000167
+t1318996877
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch.gch
+t1318997675
+s15814064
+
+N/var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch.gch
+t1320909818
+s15814064
+
+N/var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch.gch
+t1320972897
+s15814064
+
+NGestures-Info.plist
+c000000004E9E4B8C000000000000038D
+t1318996876
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342680687#342680687#0(0"0(0#1#0"8613305216#0"0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Flower.o /Users/lab14/Desktop/Flowers/Classes/Flower.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342677382.690230
+e342677382.804295
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Flower.o
+x/Users/lab14/Desktop/Flowers/Classes/Flower.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/lab14/Desktop/Flowers/Classes/Flower.m342677382#342677382#0(0"0(0#0#45"/Users/lab14/Desktop/Flowers/Classes/Flower.m8618568800#1836"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/Classes/Flower.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Flower.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Garden.o /Users/lab14/Desktop/Flowers/Classes/Garden.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342665963.651010
+e342665963.748411
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Garden.o
+x/Users/lab14/Desktop/Flowers/Classes/Garden.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/lab14/Desktop/Flowers/Classes/Garden.m342665963#342665963#0(0"0(0#0#45"/Users/lab14/Desktop/Flowers/Classes/Garden.m8610320480#1836"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/Classes/Garden.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Garden.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GardenView.o /Users/lab14/Desktop/Flowers/Classes/GardenView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342680687.062681
+e342680687.132206
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GardenView.o
+x/Users/lab14/Desktop/Flowers/Classes/GardenView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/lab14/Desktop/Flowers/Classes/GardenView.m342680687#342680687#0(0"0(0#0#49"/Users/lab14/Desktop/Flowers/Classes/GardenView.m8603079488#1844"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/Classes/GardenView.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GardenView.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340696005.203569
+e340696005.316802
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+x/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m340696005#340696005#0(0"0(0#0#70"/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m8617026432#1994"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -I/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/include -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch -c /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesAppDelegate.m -o /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o /Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342679379.881425
+e342679379.948591
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+x/Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m342679379#342679379#0(0"0(0#0#58"/Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m8617026752#1862"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/Classes/GesturesAppDelegate.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o /Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342604591.981919
+e342604592.057709
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o
+x/Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m342604591#342604592#0(0"0(0#0#59"/Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m8604232128#1873"    cd /Users/lab14/Desktop/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch -c /Users/lab14/Desktop/Gestures/Classes/GesturesAppDelegate.m -o /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesAppDelegate.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340696064.923073
+e340696065.079667
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+x/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m340696064#340696065#0(0"0(0#0#73"/Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m8618975360#2000"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -I/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/include -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch -c /Users/lab13/Desktop/MyProjects/Gestures/Classes/GesturesViewController.m -o /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o /Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342680687.061910
+e342680687.147843
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+x/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m: In function '-[GesturesViewController saveState:]':
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:32: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:33: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:36: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:37: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:43: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:46: warning: unused variable 'msg'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:48: warning: unused variable 'msg'
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m: In function '-[GesturesViewController loadState:]':
+o/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:67: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)
+lSLF07#2@69"Compile /Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680687#342680687#0(1684"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m: In function '-[GesturesViewController saveState:]':/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:32: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:33: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:36: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:37: warning: incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:43: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:46: warning: unused variable 'msg'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:48: warning: unused variable 'msg'/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m: In function '-[GesturesViewController loadState:]':/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m:67: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)8(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'342680687#115#173#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#32#0#32#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'342680687#288#173#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#33#0#33#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'342680687#461#173#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#36#0#36#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@97"Incompatible Objective-C types assigning 'struct NSString *', expected 'struct NSMutableString *'342680687#634#173#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#37#0#37#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@207"'writeToFile:atomically:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:378)342680687#807#283#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#43#0#43#0#33"'*' is deprecated (declared at *)0(22@21"Unused variable 'msg'342680687#1090#97#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#46#0#46#0#19"unused variable '*'0(22@21"Unused variable 'msg'342680687#1187#97#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#48#0#48#0#19"unused variable '*'0(22@209"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:383)342680687#1399#285#0(6@61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m342680347#67#0#67#0#33"'*' is deprecated (declared at *)0(0#0#61"/Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m8603192288#1868"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/Classes/GesturesViewController.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o /Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342605160.760368
+e342605160.883540
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o
+x/Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m342605160#342605160#0(0"0(0#0#62"/Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m8614709280#1879"    cd /Users/lab14/Desktop/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch -c /Users/lab14/Desktop/Gestures/Classes/GesturesViewController.m -o /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/GesturesViewController.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Room.o /Users/lab14/Desktop/Flowers/Classes/Room.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o /Users/lab13/Desktop/MyProjects/Gestures/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s340690475.795740
+e340690475.899158
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+x/Users/lab13/Desktop/MyProjects/Gestures/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/lab13/Desktop/MyProjects/Gestures/main.m340690475#340690475#0(0"0(0#0#47"/Users/lab13/Desktop/MyProjects/Gestures/main.m8612244672#1956"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -I/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/include -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch -c /Users/lab13/Desktop/MyProjects/Gestures/main.m -o /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o /Users/lab14/Desktop/Flowers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342665697.295872
+e342665697.400327
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+x/Users/lab14/Desktop/Flowers/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/lab14/Desktop/Flowers/main.m342665697#342665697#0(0"0(0#0#35"/Users/lab14/Desktop/Flowers/main.m8614017504#1824"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch -c /Users/lab14/Desktop/Flowers/main.m -o /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o /Users/lab14/Desktop/Gestures/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342602618.683240
+e342602618.734813
+r1
+xCompileC
+xbuild/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o
+x/Users/lab14/Desktop/Gestures/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/lab14/Desktop/Gestures/main.m342602618#342602618#0(0"0(0#0#36"/Users/lab14/Desktop/Gestures/main.m8612413568#1835"    cd /Users/lab14/Desktop/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -include /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch -c /Users/lab14/Desktop/Gestures/main.m -o /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/lab13/Desktop/MyProjects/Gestures/Classes/../GesturesViewController.xib
+s340690474.582473
+e340690474.960141
+r1
+xCompileXIB
+x/Users/lab13/Desktop/MyProjects/Gestures/Classes/../GesturesViewController.xib
+lSLF07#2@48"CompileXIB Classes/../GesturesViewController.xib340690474#340690474#0(0"0(0#0#78"/Users/lab13/Desktop/MyProjects/Gestures/Classes/../GesturesViewController.xib8612253376#612"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib /Users/lab13/Desktop/MyProjects/Gestures/Classes/../GesturesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/lab13/Desktop/MyProjects/Gestures/GesturesViewController.xib
+r0
+
+CCompileXIB /Users/lab13/Desktop/MyProjects/Gestures/MainWindow.xib
+s340690474.581115
+e340690474.954872
+r1
+xCompileXIB
+x/Users/lab13/Desktop/MyProjects/Gestures/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib340690474#340690474#0(0"0(0#0#55"/Users/lab13/Desktop/MyProjects/Gestures/MainWindow.xib8612768992#577"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/MainWindow.nib /Users/lab13/Desktop/MyProjects/Gestures/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib
+s342679372.299993
+e342679372.745409
+r1
+xCompileXIB
+x/Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib
+lSLF07#2@48"CompileXIB Classes/../GesturesViewController.xib342679372#342679372#0(0"0(0#0#66"/Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib8615573280#576"    cd /Users/lab14/Desktop/Flowers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib /Users/lab14/Desktop/Flowers/Classes/../GesturesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/lab14/Desktop/Flowers/MainWindow.xib
+r0
+
+CCompileXIB /Users/lab14/Desktop/Gestures/Classes/../GesturesViewController.xib
+s342604623.671846
+e342604624.053079
+r1
+xCompileXIB
+x/Users/lab14/Desktop/Gestures/Classes/../GesturesViewController.xib
+lSLF07#2@48"CompileXIB Classes/../GesturesViewController.xib342604623#342604624#0(0"0(0#0#67"/Users/lab14/Desktop/Gestures/Classes/../GesturesViewController.xib8614901248#579"    cd /Users/lab14/Desktop/Gestures    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/GesturesViewController.nib /Users/lab14/Desktop/Gestures/Classes/../GesturesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/lab14/Desktop/Gestures/MainWindow.xib
+r0
+
+CCpResource "build/Debug-iphonesimulator/Gestures.app/African Daisy.gif" "African Daisy.gif"
+s342603003.429916
+e342603003.441466
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/African Daisy.gif
+xAfrican Daisy.gif
+lSLF07#2@22"Copy African Daisy.gif342603003#342603003#0(0"0(0#0#47"/Users/lab14/Desktop/Gestures/African Daisy.gif8615576448#451"    cd /Users/lab14/Desktop/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/lab14/Desktop/Gestures/African Daisy.gif" /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/Bridge.jpeg Bridge.jpeg
+s340693334.172086
+e340693334.177602
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/Bridge.jpeg
+xBridge.jpeg
+lSLF07#2@16"Copy Bridge.jpeg340693334#340693334#0(0"0(0#0#52"/Users/lab13/Desktop/MyProjects/Gestures/Bridge.jpeg8615099296#476"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab13/Desktop/MyProjects/Gestures/Bridge.jpeg /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/Buildings.jpeg Buildings.jpeg
+s340693334.172748
+e340693334.182161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/Buildings.jpeg
+xBuildings.jpeg
+lSLF07#2@19"Copy Buildings.jpeg340693334#340693334#0(0"0(0#0#55"/Users/lab13/Desktop/MyProjects/Gestures/Buildings.jpeg8615035296#479"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab13/Desktop/MyProjects/Gestures/Buildings.jpeg /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/Dandelion.gif Dandelion.gif
+s342665696.080540
+e342665696.093939
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/Dandelion.gif
+xDandelion.gif
+lSLF07#2@18"Copy Dandelion.gif342665696#342665696#0(0"0(0#0#42"/Users/lab14/Desktop/Flowers/Dandelion.gif8610856992#442"    cd /Users/lab14/Desktop/Flowers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab14/Desktop/Flowers/Dandelion.gif /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/Ixia.gif Ixia.gif
+s342665696.081439
+e342665696.097061
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/Ixia.gif
+xIxia.gif
+lSLF07#2@13"Copy Ixia.gif342665696#342665696#0(0"0(0#0#37"/Users/lab14/Desktop/Flowers/Ixia.gif8612608928#437"    cd /Users/lab14/Desktop/Flowers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab14/Desktop/Flowers/Ixia.gif /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/Sunflower.gif Sunflower.gif
+s342603003.433943
+e342603003.441723
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/Sunflower.gif
+xSunflower.gif
+lSLF07#2@18"Copy Sunflower.gif342603003#342603003#0(0"0(0#0#43"/Users/lab14/Desktop/Gestures/Sunflower.gif8615325376#445"    cd /Users/lab14/Desktop/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab14/Desktop/Gestures/Sunflower.gif /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/architecture.jpg architecture.jpg
+s340690474.954944
+e340690474.969054
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/architecture.jpg
+xarchitecture.jpg
+lSLF07#2@21"Copy architecture.jpg340690474#340690474#0(0"0(0#0#57"/Users/lab13/Desktop/MyProjects/Gestures/architecture.jpg8611317984#481"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab13/Desktop/MyProjects/Gestures/architecture.jpg /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CCpResource build/Debug-iphonesimulator/Gestures.app/background.png background.png
+s342603003.430697
+e342603003.441629
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Gestures.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png342603003#342603003#0(0"0(0#0#44"/Users/lab14/Desktop/Gestures/background.png8615385280#446"    cd /Users/lab14/Desktop/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/lab14/Desktop/Gestures/background.png /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CGenerateDSYMFile /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+s340696065.103847
+e340696065.124179
+r1
+xGenerateDSYMFile
+x/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+x/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Gestures.app.dSYM build/Debug-iphonesimulator/Gestures.app/Gestures340696065#340696065#0(0"0(0#0#90"/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures8619085952#392"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures -o /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM0#
+
+CGenerateDSYMFile /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app.dSYM /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures
+s342680687.171619
+e342680687.188349
+r1
+xGenerateDSYMFile
+x/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app.dSYM
+x/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Gestures.app.dSYM build/Debug-iphonesimulator/Gestures.app/Gestures342680687#342680687#0(0"0(0#0#78"/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures8603554784#356"    cd /Users/lab14/Desktop/Flowers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures -o /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app.dSYM0#
+
+CGenerateDSYMFile /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+s342605160.903993
+e342605160.917840
+r1
+xGenerateDSYMFile
+x/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM
+x/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Gestures.app.dSYM build/Debug-iphonesimulator/Gestures.app/Gestures342605160#342605160#0(0"0(0#0#79"/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures8614751456#359"    cd /Users/lab14/Desktop/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures -o /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app.dSYM0#
+
+CLd /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures normal i386
+s340696065.079742
+e340696065.103636
+r1
+xLd
+x/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+xnormal
+xi386
+lSLF07#2@95"Link /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures340696065#340696065#0(0"0(0#0#0"8640061760#915"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -F/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -filelist /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures0#
+
+CLd /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures normal i386
+s342680687.147916
+e342680687.171547
+r1
+xLd
+x/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures
+xnormal
+xi386
+lSLF07#2@83"Link /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures342680687#342680687#0(0"0(0#0#0"8602733056#855"    cd /Users/lab14/Desktop/Flowers    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -filelist /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Gestures0#
+
+CLd /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures normal i386
+s342605160.883618
+e342605160.903913
+r1
+xLd
+x/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures
+xnormal
+xi386
+lSLF07#2@84"Link /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures342605160#342605160#0(0"0(0#0#0"8615531776#860"    cd /Users/lab14/Desktop/Gestures    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -F/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -filelist /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Objects-normal/i386/Gestures.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Gestures0#
+
+CProcessInfoPlistFile /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist Gestures-Info.plist
+s340690474.560750
+e340690474.581036
+r1
+xProcessInfoPlistFile
+x/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist
+xGestures-Info.plist
+lSLF07#2@27"Process Gestures-Info.plist340690474#340690474#0(0"0(0#0#60"/Users/lab13/Desktop/MyProjects/Gestures/Gestures-Info.plist31525648366108776#488"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Gestures-Info.plist -genpkginfo /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app/Info.plist Gestures-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app/Info.plist Gestures-Info.plist
+r0
+
+CProcessPCH /var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s340690474.969185
+e340690475.795664
+r1
+xProcessPCH
+x/var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch.gch
+xGestures_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Gestures_Prefix.pch340690474#340690475#0(0"0(0#0#60"/Users/lab13/Desktop/MyProjects/Gestures/Gestures_Prefix.pch8603996096#1845"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator -I/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/include -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab13/Desktop/MyProjects/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -c /Users/lab13/Desktop/MyProjects/Gestures/Gestures_Prefix.pch -o /var/folders/xF/xFqQrZswHS8kSOoGcstOA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-cesygowicrxdfggpcbhplhimbbny/Gestures_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342602618.098215
+e342602618.683115
+r1
+xProcessPCH
+x/var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch.gch
+xGestures_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Gestures_Prefix.pch342602618#342602618#0(0"0(0#0#49"/Users/lab14/Desktop/Gestures/Gestures_Prefix.pch8614859808#1735"    cd /Users/lab14/Desktop/Gestures    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Gestures/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -c /Users/lab14/Desktop/Gestures/Gestures_Prefix.pch -o /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-evgxvqajjaeqjgdidxqpnfmtwdgn/Gestures_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch.gch Gestures_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342665696.510354
+e342665697.295792
+r1
+xProcessPCH
+x/var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch.gch
+xGestures_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Gestures_Prefix.pch342665696#342665697#0(0"0(0#0#48"/Users/lab14/Desktop/Flowers/Gestures_Prefix.pch8610780736#1725"    cd /Users/lab14/Desktop/Flowers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-generated-files.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-own-target-headers.hmap -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-all-target-headers.hmap -iquote /Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/Gestures-project-headers.hmap -F/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator -I/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/include -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources/i386 -I/Users/lab14/Desktop/Flowers/build/Gestures.build/Debug-iphonesimulator/Gestures.build/DerivedSources -c /Users/lab14/Desktop/Flowers/Gestures_Prefix.pch -o /var/folders/zT/zTlSMh9hEUyuZfhIew1EK++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Gestures_Prefix-ezotqlxkchsmeacajlzwnznmcpbu/Gestures_Prefix.pch.gch0#
+
+CTouch /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app
+s340696065.124252
+e340696065.126868
+r1
+xTouch
+x/Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app
+lSLF07#2@87"Touch /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app340696065#340696065#0(0"0(0#0#0"8649094688#283"    cd /Users/lab13/Desktop/MyProjects/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lab13/Desktop/MyProjects/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+
+CTouch /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app
+s342680687.188420
+e342680687.190639
+r1
+xTouch
+x/Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app
+lSLF07#2@75"Touch /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app342680687#342680687#0(0"0(0#0#0"8615511392#259"    cd /Users/lab14/Desktop/Flowers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lab14/Desktop/Flowers/build/Debug-iphonesimulator/Gestures.app0#
+
+CTouch /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app
+s342605160.918059
+e342605160.920027
+r1
+xTouch
+x/Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app
+lSLF07#2@76"Touch /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app342605160#342605160#0(0"0(0#0#0"8619695808#261"    cd /Users/lab14/Desktop/Gestures    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lab14/Desktop/Gestures/build/Debug-iphonesimulator/Gestures.app0#
+

@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Gestures */ = {
+		activeExec = 0;
+		executables = (
+			53143F90144E830D00105E1D /* Gestures */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1122, 766}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{0, 352}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1122, 2893}}";
+			sepNavSelRange = "{1421, 0}";
+			sepNavVisRange = "{0, 1502}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 53143F90144E830D00105E1D /* Gestures */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Gestures */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Gestures */,
+		);
+		codeSenseManager = 53143F95144E832C00105E1D /* Code sense */;
+		executables = (
+			53143F90144E830D00105E1D /* Gestures */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					944,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340689677;
+			PBXWorkspaceStateSaveDate = 340689677;
+		};
+		perUserProjectItems = {
+			53143FB2144E8A9800105E1D /* PBXBookmark */ = 53143FB2144E8A9800105E1D /* PBXBookmark */;
+			53143FF0144E9BC500105E1D /* PBXTextBookmark */ = 53143FF0144E9BC500105E1D /* PBXTextBookmark */;
+			53143FF1144E9BC500105E1D /* PBXTextBookmark */ = 53143FF1144E9BC500105E1D /* PBXTextBookmark */;
+			53143FF6144E9C9000105E1D /* PBXTextBookmark */ = 53143FF6144E9C9000105E1D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 53143F94144E832C00105E1D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	53143F90144E830D00105E1D /* Gestures */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Gestures;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	53143F94144E832C00105E1D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	53143F95144E832C00105E1D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	53143FB2144E8A9800105E1D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 53143F96144E843D00105E1D /* architecture.jpg */;
+	};
+	53143FF0144E9BC500105E1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GesturesViewController.h */;
+		name = "GesturesViewController.h: 12";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 0;
+	};
+	53143FF1144E9BC500105E1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 176";
+		rLen = 0;
+		rLoc = 5243;
+		rType = 0;
+		vrLen = 1423;
+		vrLoc = 4928;
+	};
+	53143FF6144E9C9000105E1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GesturesViewController.m */;
+		name = "GesturesViewController.m: 58";
+		rLen = 0;
+		rLoc = 1421;
+		rType = 0;
+		vrLen = 1502;
+		vrLoc = 0;
+	};
+}
